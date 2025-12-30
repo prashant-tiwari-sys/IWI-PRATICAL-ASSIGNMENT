@@ -1,8 +1,8 @@
 # PRASHANT TIWARI's BCA Practical Assignment
 This folder contains HTML, CSS, and JavaScript programs created by SHAILJA PANDEY for BCA 1B – Batch 2. The programs are organized by Unit and Assignment.
 
-# Assignment Organization
-## Unit Assignment Files
+## Assignment Organization
+### Unit Assignment Files
 ## Unit 1 Assignment 1
 -P1.1 
 -P1.2 
